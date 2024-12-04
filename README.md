@@ -22,6 +22,10 @@ Check out the usage [notebook](./docs/usage.ipynb)
 - [ ] Figure out how we can provide ways to hook backend specific args
   - It would be best for me to provide the fastest default behavior, but we might want people to add custom args to their specific backend
 - [ ] Tests
+- [ ] File object that does not rely on filesystem
 - [ ] Caching support
+- [ ] Figure out a better interface to tweak how operations are done for specific cloud provider
+  - how to get customised boto3 session?
+  - how to do a customised upload, with different params
 - [ ] Optimisation of auxiliary operations like copy
 - [ ] More shortcuts

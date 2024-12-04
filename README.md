@@ -29,3 +29,4 @@ Check out the usage [notebook](./docs/usage.ipynb)
   - how to do a customised upload, with different params
 - [ ] Optimisation of auxiliary operations like copy
 - [ ] More shortcuts
+
